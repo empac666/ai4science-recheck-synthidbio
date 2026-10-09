@@ -1,0 +1,17 @@
+{
+  "stopped_utc": "2026-10-09T04:31:03.636583+00:00",
+  "elapsed_minutes": 17.353889818986257,
+  "hard_limit_minutes": 120,
+  "within_limit": true,
+  "reason": "Gate G blocked; static failure audit, report, figures and validation completed",
+  "scientific_aggregation_completed": false,
+  "M_status": "not_tested",
+  "post_stop_scientific_work": "none; only local packaging and commit",
+  "checkpoints": {
+    "40": "not_applicable_ended_before_checkpoint",
+    "60": "not_applicable_ended_before_checkpoint",
+    "75": "not_applicable_ended_before_checkpoint",
+    "80": "not_applicable_ended_before_checkpoint",
+    "90": "not_applicable_ended_before_checkpoint"
+  }
+}

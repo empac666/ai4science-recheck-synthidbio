@@ -1,0 +1,104 @@
+{
+  "scope": "Valid registered keys only; rejected rows retained in invalid_target_keys.csv; not the full scientific roster",
+  "gate_I": "not_completed",
+  "diagnostic_join_crosscheck": "exact",
+  "join_counts": {
+    "matched": 539,
+    "left_only": 270,
+    "right_only": 1
+  },
+  "formal_cell_diagnostics": [
+    {
+      "target": "VEGF-A",
+      "setting": "C",
+      "valid_experiment_keys": 74,
+      "valid_g_keys": 74,
+      "valid_experiment_backbones": 15,
+      "left_only": 0,
+      "right_only": 0,
+      "status": "diagnostic_partial_unqualified"
+    },
+    {
+      "target": "VEGF-A",
+      "setting": "WN",
+      "valid_experiment_keys": 88,
+      "valid_g_keys": 89,
+      "valid_experiment_backbones": 15,
+      "left_only": 0,
+      "right_only": 1,
+      "status": "diagnostic_partial_unqualified"
+    },
+    {
+      "target": "VEGF-A",
+      "setting": "WD",
+      "valid_experiment_keys": 89,
+      "valid_g_keys": 89,
+      "valid_experiment_backbones": 15,
+      "left_only": 0,
+      "right_only": 0,
+      "status": "diagnostic_partial_unqualified"
+    },
+    {
+      "target": "PD-L1",
+      "setting": "C",
+      "valid_experiment_keys": 74,
+      "valid_g_keys": 74,
+      "valid_experiment_backbones": 15,
+      "left_only": 0,
+      "right_only": 0,
+      "status": "diagnostic_partial_unqualified"
+    },
+    {
+      "target": "PD-L1",
+      "setting": "WN",
+      "valid_experiment_keys": 89,
+      "valid_g_keys": 89,
+      "valid_experiment_backbones": 15,
+      "left_only": 0,
+      "right_only": 0,
+      "status": "diagnostic_partial_unqualified"
+    },
+    {
+      "target": "PD-L1",
+      "setting": "WD",
+      "valid_experiment_keys": 89,
+      "valid_g_keys": 89,
+      "valid_experiment_backbones": 15,
+      "left_only": 0,
+      "right_only": 0,
+      "status": "diagnostic_partial_unqualified"
+    },
+    {
+      "target": "SC2RBD",
+      "setting": "C",
+      "valid_experiment_keys": 74,
+      "valid_g_keys": 0,
+      "valid_experiment_backbones": 15,
+      "left_only": 74,
+      "right_only": 0,
+      "status": "diagnostic_partial_unqualified"
+    },
+    {
+      "target": "SC2RBD",
+      "setting": "WN",
+      "valid_experiment_keys": 89,
+      "valid_g_keys": 0,
+      "valid_experiment_backbones": 15,
+      "left_only": 89,
+      "right_only": 0,
+      "status": "diagnostic_partial_unqualified"
+    },
+    {
+      "target": "SC2RBD",
+      "setting": "WD",
+      "valid_experiment_keys": 89,
+      "valid_g_keys": 0,
+      "valid_experiment_backbones": 15,
+      "left_only": 89,
+      "right_only": 0,
+      "status": "diagnostic_partial_unqualified"
+    }
+  ],
+  "duplicate_keys": [],
+  "invalid_row_count": 272
+}

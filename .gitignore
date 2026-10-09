@@ -14,3 +14,4 @@ __pycache__/
 /artifacts/roster_audit.json
 /artifacts/functional_base.json
 /artifacts/controls.json
+/reproduction/

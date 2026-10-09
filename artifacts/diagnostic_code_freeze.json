@@ -1,0 +1,8 @@
+{
+  "frozen_at_utc": "2026-10-09T04:23:03.895656+00:00",
+  "elapsed_minutes": 9.358207718531292,
+  "purpose": "static failure audit; does not amend the scientific code or protocol",
+  "sha256": {
+    "analysis/diagnose_block.py": "a06f01646ceb0ff45695cc24bc82250dc9aca5a7bfd65e874bfd33bf159d1dcb"
+  }
+}

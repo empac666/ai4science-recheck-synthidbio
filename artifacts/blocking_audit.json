@@ -1,0 +1,2545 @@
+{
+  "purpose": "static_source_and_key_failure_audit_only",
+  "scientific_aggregation_performed": false,
+  "path_a_failure": {
+    "stage": "core",
+    "error_type": "ValueError",
+    "reason": "Unknown target",
+    "elapsed_minutes": 8.140070684750874
+  },
+  "path_b_attempt": {
+    "status": "blocked",
+    "error_type": "ValueError",
+    "reason": "Unrecognized target"
+  },
+  "files": [
+    {
+      "file": "synthidbio_sequence/data/all_g_values.csv",
+      "raw_rows": 810,
+      "target_columns": [
+        {
+          "position": 2,
+          "header": "Plate Target ID"
+        },
+        {
+          "position": 10,
+          "header": "Plate Target ID"
+        }
+      ],
+      "raw_target_counts": {
+        "PD-L1": 270,
+        "SARS-CoV-2": 270,
+        "VEGFA": 270
+      },
+      "target_frequency_crosscheck": "exact",
+      "issues": [
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 272,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1081",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 273,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1082",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 274,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1083",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 275,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1084",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 276,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1085",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 277,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1086",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 278,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1087",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 279,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1088",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 280,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1089",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 281,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1090",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 282,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1091",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 283,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1092",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 284,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1093",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 285,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1094",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 286,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1095",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 287,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1096",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 288,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1097",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 289,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1098",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 290,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1099",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 291,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1100",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 292,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1101",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 293,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1102",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 294,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1103",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 295,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1104",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 296,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1105",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 297,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1106",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 298,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1107",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 299,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1108",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 300,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1109",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 301,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1110",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 302,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1111",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 303,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1112",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 304,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1113",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 305,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1114",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 306,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1115",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 307,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1116",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 308,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1117",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 309,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1118",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 310,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1119",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 311,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1120",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 312,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1121",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 313,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1122",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 314,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1123",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 315,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1124",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 316,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1125",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 317,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1126",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 318,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1127",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 319,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1128",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 320,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1129",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 321,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1130",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 322,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1131",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 323,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1132",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 324,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1133",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 325,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1134",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 326,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1135",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 327,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1136",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 328,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1137",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 329,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1138",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 330,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1139",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 331,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1140",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 332,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1141",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 333,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1142",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 334,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1143",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 335,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1144",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 336,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1145",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 337,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1146",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 338,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1147",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 339,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1148",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 340,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1149",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 341,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1150",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 342,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1151",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 343,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1152",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 344,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1153",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 345,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1154",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 346,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1155",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 347,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1156",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 348,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1157",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 349,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1158",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 350,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1159",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 351,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1160",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 352,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1161",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 353,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1162",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 354,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1163",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 355,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1164",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 356,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1165",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 357,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1166",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 358,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1167",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 359,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1168",
+          "raw_setting": "non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 360,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1169",
+          "raw_setting": "Parent Sequence",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 361,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1170",
+          "raw_setting": "Negative Control non_watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 362,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1171",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 363,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1172",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 364,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1173",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 365,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1174",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 366,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1175",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 367,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1176",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 368,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1177",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 369,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1178",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 370,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1179",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 371,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1180",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 372,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1181",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 373,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1182",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 374,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1183",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 375,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1184",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 376,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1185",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 377,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1186",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 378,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1187",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 379,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1188",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 380,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1189",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 381,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1190",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 382,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1191",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 383,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1192",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 384,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1193",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 385,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1194",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 386,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1195",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 387,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1196",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 388,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1197",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 389,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1198",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 390,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1199",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 391,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1200",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 392,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1201",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 393,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1202",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 394,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1203",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 395,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1204",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 396,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1205",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 397,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1206",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 398,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1207",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 399,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1208",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 400,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1209",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 401,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1210",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 402,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1211",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 403,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1212",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 404,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1213",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 405,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1214",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 406,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1215",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 407,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1216",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 408,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1217",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 409,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1218",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 410,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1219",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 411,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1220",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 412,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1221",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 413,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1222",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 414,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1223",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 415,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1224",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 416,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1225",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 417,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1226",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 418,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1227",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 419,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1228",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 420,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1229",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 421,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1230",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 422,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1231",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 423,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1232",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 424,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1233",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 425,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1234",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 426,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1235",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 427,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1236",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 428,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1237",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 429,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1238",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 430,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1239",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 431,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1240",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 432,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1241",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 433,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1242",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 434,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1243",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 435,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1244",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 436,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1245",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 437,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1246",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 438,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1247",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 439,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1248",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 440,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1249",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 441,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1250",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 442,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1251",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 443,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1252",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 444,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1253",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 445,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1254",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 446,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1255",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 447,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1256",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 448,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1257",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 449,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1258",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 450,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1259",
+          "raw_setting": "watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 451,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1260",
+          "raw_setting": "Negative Control watermark_0.1",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 452,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1261",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 453,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1262",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 454,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1263",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 455,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1264",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 456,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1265",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 457,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1266",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 458,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1267",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 459,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1268",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 460,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1269",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 461,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1270",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 462,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1271",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 463,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1272",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 464,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1273",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 465,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1274",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 466,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1275",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 467,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1276",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 468,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1277",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 469,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1278",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 470,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1279",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 471,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1280",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 472,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1281",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 473,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1282",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 474,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1283",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 475,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1284",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 476,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1285",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 477,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1286",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 478,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1287",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 479,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1288",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 480,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1289",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 481,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1290",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 482,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1291",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 483,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1292",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 484,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1293",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 485,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1294",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 486,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1295",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 487,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1296",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 488,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1297",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 489,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1298",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 490,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1299",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 491,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1300",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 492,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1301",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 493,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1302",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 494,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1303",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 495,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1304",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 496,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1305",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 497,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1306",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 498,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1307",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 499,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1308",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 500,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1309",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 501,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1310",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 502,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1311",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 503,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1312",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 504,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1313",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 505,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1314",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 506,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1315",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 507,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1316",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 508,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1317",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 509,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1318",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 510,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1319",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 511,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1320",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 512,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1321",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 513,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1322",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 514,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1323",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 515,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1324",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 516,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1325",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 517,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1326",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 518,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1327",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 519,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1328",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 520,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1329",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 521,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1330",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 522,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1331",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 523,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1332",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 524,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1333",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 525,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1334",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 526,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1335",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 527,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1336",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 528,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1337",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 529,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1338",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 530,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1339",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 531,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1340",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 532,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1341",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 533,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1342",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 534,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1343",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 535,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1344",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 536,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1345",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 537,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1346",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 538,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1347",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 539,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1348",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 540,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1349",
+          "raw_setting": "watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        },
+        {
+          "file": "synthidbio_sequence/data/all_g_values.csv",
+          "source_row": 541,
+          "raw_target": "SARS-CoV-2",
+          "normalized_target": "SARS-CoV-2",
+          "raw_design": "PDW_1350",
+          "raw_setting": "Negative Control watermark_0.5",
+          "reason": "target_not_in_frozen_alias_dictionary"
+        }
+      ],
+      "duplicate_target_columns_agree": true
+    },
+    {
+      "file": "synthidbio_sequence/data/VEGF-A/vegfa_data.csv",
+      "raw_rows": 543,
+      "target_columns": [
+        {
+          "position": 12,
+          "header": "Plate Target ID"
+        }
+      ],
+      "raw_target_counts": {
+        "": 2,
+        "VEGFA": 541
+      },
+      "target_frequency_crosscheck": "exact",
+      "issues": [
+        {
+          "file": "synthidbio_sequence/data/VEGF-A/vegfa_data.csv",
+          "source_row": 543,
+          "raw_target": "",
+          "normalized_target": "",
+          "raw_design": "PDW_1080",
+          "raw_setting": "watermark_0.5",
+          "reason": "empty_target_key"
+        },
+        {
+          "file": "synthidbio_sequence/data/VEGF-A/vegfa_data.csv",
+          "source_row": 544,
+          "raw_target": "",
+          "normalized_target": "",
+          "raw_design": "PDW_1080",
+          "raw_setting": "watermark_0.5",
+          "reason": "empty_target_key"
+        }
+      ],
+      "duplicate_target_columns_agree": true
+    },
+    {
+      "file": "synthidbio_sequence/data/PD_L1/pdl1_data.csv",
+      "raw_rows": 541,
+      "target_columns": [
+        {
+          "position": 12,
+          "header": "Plate Target ID"
+        }
+      ],
+      "raw_target_counts": {
+        "PD-L1": 541
+      },
+      "target_frequency_crosscheck": "exact",
+      "issues": [],
+      "duplicate_target_columns_agree": true
+    },
+    {
+      "file": "synthidbio_sequence/data/SC2RBD/sc2rbd_data.csv",
+      "raw_rows": 540,
+      "target_columns": [
+        {
+          "position": 12,
+          "header": "Plate_Target_ID"
+        }
+      ],
+      "raw_target_counts": {
+        "SC2RBD": 540
+      },
+      "target_frequency_crosscheck": "exact",
+      "issues": [],
+      "duplicate_target_columns_agree": true
+    }
+  ],
+  "issue_count_by_reason": {
+    "target_not_in_frozen_alias_dictionary": 270,
+    "empty_target_key": 2
+  },
+  "gate_I": "not_completed",
+  "gate_I_note": "Both independent parsers reject the original inputs. Agreement on rejection does not satisfy the preregistered scientific Gate I.",
+  "code_sha256": "a06f01646ceb0ff45695cc24bc82250dc9aca5a7bfd65e874bfd33bf159d1dcb"
+}
