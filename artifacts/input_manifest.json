@@ -1,0 +1,114 @@
+{
+  "upstream_commit": "b2d65a39e0bd3b0bca9e82696bf6f1c306d8d34e",
+  "inputs": [
+    {
+      "file": "synthidbio_sequence/data/all_g_values.csv",
+      "cache": "data/cache/synthidbio_sequence/data/all_g_values.csv",
+      "url": "https://raw.githubusercontent.com/google-deepmind/synthidbio/b2d65a39e0bd3b0bca9e82696bf6f1c306d8d34e/synthidbio_sequence/data/all_g_values.csv",
+      "bytes": 64488,
+      "sha256": "8421e8368cefbd27beb8d136b125f3c8a137f836ff57ab8adabd43364be93757",
+      "expected_sha256": "8421e8368cefbd27beb8d136b125f3c8a137f836ff57ab8adabd43364be93757",
+      "verified": true,
+      "obtained_at_utc": "2026-10-09T04:13:42.628950+00:00",
+      "source": "network",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "synthidbio_sequence/data/VEGF-A/vegfa_data.csv",
+      "cache": "data/cache/synthidbio_sequence/data/VEGF-A/vegfa_data.csv",
+      "url": "https://raw.githubusercontent.com/google-deepmind/synthidbio/b2d65a39e0bd3b0bca9e82696bf6f1c306d8d34e/synthidbio_sequence/data/VEGF-A/vegfa_data.csv",
+      "bytes": 114207,
+      "sha256": "321cc01da075c5f0b535a82f0d031b1bfaec1b88337f1541bc5ddd1be4103fe2",
+      "expected_sha256": "321cc01da075c5f0b535a82f0d031b1bfaec1b88337f1541bc5ddd1be4103fe2",
+      "verified": true,
+      "obtained_at_utc": "2026-10-09T04:13:42.827096+00:00",
+      "source": "network",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "synthidbio_sequence/data/PD_L1/pdl1_data.csv",
+      "cache": "data/cache/synthidbio_sequence/data/PD_L1/pdl1_data.csv",
+      "url": "https://raw.githubusercontent.com/google-deepmind/synthidbio/b2d65a39e0bd3b0bca9e82696bf6f1c306d8d34e/synthidbio_sequence/data/PD_L1/pdl1_data.csv",
+      "bytes": 108131,
+      "sha256": "c8089b83259ac344805e724d4593884f4c67e9c617a55a2d2209d1838c4e0d2b",
+      "expected_sha256": "c8089b83259ac344805e724d4593884f4c67e9c617a55a2d2209d1838c4e0d2b",
+      "verified": true,
+      "obtained_at_utc": "2026-10-09T04:13:43.031003+00:00",
+      "source": "network",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "synthidbio_sequence/data/SC2RBD/sc2rbd_data.csv",
+      "cache": "data/cache/synthidbio_sequence/data/SC2RBD/sc2rbd_data.csv",
+      "url": "https://raw.githubusercontent.com/google-deepmind/synthidbio/b2d65a39e0bd3b0bca9e82696bf6f1c306d8d34e/synthidbio_sequence/data/SC2RBD/sc2rbd_data.csv",
+      "bytes": 110848,
+      "sha256": "e132509696cb528eb3e5bdf00d3e92b45d05df21b2ef736000fa4d67bae2e03f",
+      "expected_sha256": "e132509696cb528eb3e5bdf00d3e92b45d05df21b2ef736000fa4d67bae2e03f",
+      "verified": true,
+      "obtained_at_utc": "2026-10-09T04:13:43.240869+00:00",
+      "source": "network",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "README.md",
+      "cache": "data/cache/README.md",
+      "url": "https://raw.githubusercontent.com/google-deepmind/synthidbio/b2d65a39e0bd3b0bca9e82696bf6f1c306d8d34e/README.md",
+      "bytes": 24147,
+      "sha256": "861ed6bd339c7215f66d7c53dcb875566a12c39ba1648e80e29388b016a71da9",
+      "expected_sha256": "861ed6bd339c7215f66d7c53dcb875566a12c39ba1648e80e29388b016a71da9",
+      "verified": true,
+      "obtained_at_utc": "2026-10-09T04:13:43.413208+00:00",
+      "source": "network",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "LICENSE",
+      "cache": "data/cache/LICENSE",
+      "url": "https://raw.githubusercontent.com/google-deepmind/synthidbio/b2d65a39e0bd3b0bca9e82696bf6f1c306d8d34e/LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "expected_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "verified": true,
+      "obtained_at_utc": "2026-10-09T04:13:43.547527+00:00",
+      "source": "network",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "pass"
+        }
+      ]
+    }
+  ],
+  "pdf": {
+    "status": "not_downloaded_reference_only",
+    "sha256": "6b9cadfdbc70e54eb711fc670139a1f7f61c4a79cafd965b6e0c2ba651887b04",
+    "threshold_source": "Supplementary Table S2 and Figures S24/S25"
+  },
+  "completed_utc": "2026-10-09T04:13:43.547577+00:00",
+  "elapsed_minutes": 0.019072604179382325
+}

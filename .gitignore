@@ -3,3 +3,14 @@
 /agy_review2.md
 /grok_review2.md
 /response.md
+# Frozen raw inputs contain sequences; keep only manifests in Git.
+/data/cache/
+/artifacts/bootstrap_indices.npy
+__pycache__/
+*.pyc
+.pytest_cache/
+# Expanded audit traces remain local; compact byte-preserving archives are versioned.
+/artifacts/path_a.json
+/artifacts/roster_audit.json
+/artifacts/functional_base.json
+/artifacts/controls.json
