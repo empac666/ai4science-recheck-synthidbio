@@ -1,0 +1,25 @@
+{
+  "gate_I": false,
+  "status": "not_completed",
+  "path_a": {
+    "stage": "core",
+    "error_type": "ValueError",
+    "reason": "Unknown target",
+    "elapsed_minutes": 8.140070684750874
+  },
+  "path_b": {
+    "status": "blocked",
+    "error_type": "ValueError",
+    "reason": "Unrecognized target"
+  },
+  "required_checks": {
+    "full_formal_keys": "not_completed",
+    "backbone_counts": "not_completed",
+    "six_cells_and_group_totals_N_K_L": "not_executed",
+    "equal_threshold_counts": "not_executed",
+    "sensitivity_classification_changes": "not_executed",
+    "per_design_detection_booleans": "not_executed"
+  },
+  "static_diagnostics": "Both reject unregistered targets; raw target frequencies agree; partial diagnostic join checked separately",
+  "note": "Agreement on rejection or partial diagnostics does not fulfil Gate I"
+}

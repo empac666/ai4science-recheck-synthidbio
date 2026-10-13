@@ -1,0 +1,6 @@
+{"event": "acquisition_dependencies_license_verified", "utc": "2026-10-09T04:20:25.457267+00:00", "elapsed_minutes": 6.717567869027456, "inputs": 6, "data_license": "CC BY 4.0", "software_license": "Apache-2.0"}
+{"event": "code_and_configuration_frozen", "utc": "2026-10-09T04:21:50.438353+00:00", "elapsed_minutes": 8.133918984731038, "files": 12, "acceptance_passed": true}
+{"event": "stage_failed", "utc": "2026-10-09T04:21:50.807249+00:00", "elapsed_minutes": 8.140067330996196, "stage": "core", "error_type": "ValueError", "reason": "Unknown target"}
+{"event": "static_blocking_audit_completed", "utc": "2026-10-09T04:23:04.190576+00:00", "elapsed_minutes": 9.363122900327047, "issues": {"target_not_in_frozen_alias_dictionary": 270, "empty_target_key": 2}, "path_b_status": "blocked", "no_scientific_summary": true}
+{"event": "static_roster_diagnostics_completed", "utc": "2026-10-09T04:24:30.480695+00:00", "elapsed_minutes": 10.801291485627493, "diagnostic_join_counts": {"matched": 539, "left_only": 270, "right_only": 1}, "invalid_rows": 272, "scientific_status": "blocked"}
+{"event": "run_stopped", "utc": "2026-10-09T04:31:03.636918+00:00", "elapsed_minutes": 17.35389494895935, "M_status": "not_tested", "reason": "Gate G blocked; final validation passed"}

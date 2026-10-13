@@ -1,0 +1,811 @@
+target,design,join_status,experiment_setting,g_setting,experiment_backbone,g_backbone
+PD-L1,pdw_1351,matched,C,C,Backbone 0,Backbone 0
+PD-L1,pdw_1352,matched,C,C,Backbone 0,Backbone 0
+PD-L1,pdw_1353,matched,C,C,Backbone 0,Backbone 0
+PD-L1,pdw_1354,matched,C,C,Backbone 0,Backbone 0
+PD-L1,pdw_1355,matched,C,C,Backbone 0,Backbone 0
+PD-L1,pdw_1356,matched,parent,parent,Backbone 0,Backbone 0
+PD-L1,pdw_1357,matched,C,C,Backbone 1,Backbone 1
+PD-L1,pdw_1358,matched,C,C,Backbone 1,Backbone 1
+PD-L1,pdw_1359,matched,C,C,Backbone 1,Backbone 1
+PD-L1,pdw_1360,matched,C,C,Backbone 1,Backbone 1
+PD-L1,pdw_1361,matched,C,C,Backbone 1,Backbone 1
+PD-L1,pdw_1362,matched,parent,parent,Backbone 1,Backbone 1
+PD-L1,pdw_1363,matched,C,C,Backbone 10,Backbone 10
+PD-L1,pdw_1364,matched,C,C,Backbone 10,Backbone 10
+PD-L1,pdw_1365,matched,C,C,Backbone 10,Backbone 10
+PD-L1,pdw_1366,matched,C,C,Backbone 10,Backbone 10
+PD-L1,pdw_1367,matched,C,C,Backbone 10,Backbone 10
+PD-L1,pdw_1368,matched,parent,parent,Backbone 10,Backbone 10
+PD-L1,pdw_1369,matched,C,C,Backbone 11,Backbone 11
+PD-L1,pdw_1370,matched,C,C,Backbone 11,Backbone 11
+PD-L1,pdw_1371,matched,C,C,Backbone 11,Backbone 11
+PD-L1,pdw_1372,matched,C,C,Backbone 11,Backbone 11
+PD-L1,pdw_1373,matched,C,C,Backbone 11,Backbone 11
+PD-L1,pdw_1374,matched,parent,parent,Backbone 11,Backbone 11
+PD-L1,pdw_1375,matched,C,C,Backbone 12,Backbone 12
+PD-L1,pdw_1376,matched,C,C,Backbone 12,Backbone 12
+PD-L1,pdw_1377,matched,C,C,Backbone 12,Backbone 12
+PD-L1,pdw_1378,matched,C,C,Backbone 12,Backbone 12
+PD-L1,pdw_1379,matched,C,C,Backbone 12,Backbone 12
+PD-L1,pdw_1380,matched,parent,parent,Backbone 12,Backbone 12
+PD-L1,pdw_1381,matched,C,C,Backbone 13,Backbone 13
+PD-L1,pdw_1382,matched,C,C,Backbone 13,Backbone 13
+PD-L1,pdw_1383,matched,C,C,Backbone 13,Backbone 13
+PD-L1,pdw_1384,matched,C,C,Backbone 13,Backbone 13
+PD-L1,pdw_1385,matched,C,C,Backbone 13,Backbone 13
+PD-L1,pdw_1386,matched,parent,parent,Backbone 13,Backbone 13
+PD-L1,pdw_1387,matched,C,C,Backbone 14,Backbone 14
+PD-L1,pdw_1388,matched,C,C,Backbone 14,Backbone 14
+PD-L1,pdw_1389,matched,C,C,Backbone 14,Backbone 14
+PD-L1,pdw_1390,matched,C,C,Backbone 14,Backbone 14
+PD-L1,pdw_1391,matched,parent,parent,Backbone 14,Backbone 14
+PD-L1,pdw_1392,matched,C,C,Backbone 2,Backbone 2
+PD-L1,pdw_1393,matched,C,C,Backbone 2,Backbone 2
+PD-L1,pdw_1394,matched,C,C,Backbone 2,Backbone 2
+PD-L1,pdw_1395,matched,C,C,Backbone 2,Backbone 2
+PD-L1,pdw_1396,matched,C,C,Backbone 2,Backbone 2
+PD-L1,pdw_1397,matched,parent,parent,Backbone 2,Backbone 2
+PD-L1,pdw_1398,matched,C,C,Backbone 3,Backbone 3
+PD-L1,pdw_1399,matched,C,C,Backbone 3,Backbone 3
+PD-L1,pdw_1400,matched,C,C,Backbone 3,Backbone 3
+PD-L1,pdw_1401,matched,C,C,Backbone 3,Backbone 3
+PD-L1,pdw_1402,matched,C,C,Backbone 3,Backbone 3
+PD-L1,pdw_1403,matched,parent,parent,Backbone 3,Backbone 3
+PD-L1,pdw_1404,matched,C,C,Backbone 4,Backbone 4
+PD-L1,pdw_1405,matched,C,C,Backbone 4,Backbone 4
+PD-L1,pdw_1406,matched,C,C,Backbone 4,Backbone 4
+PD-L1,pdw_1407,matched,C,C,Backbone 4,Backbone 4
+PD-L1,pdw_1408,matched,C,C,Backbone 4,Backbone 4
+PD-L1,pdw_1409,matched,parent,parent,Backbone 4,Backbone 4
+PD-L1,pdw_1410,matched,C,C,Backbone 5,Backbone 5
+PD-L1,pdw_1411,matched,C,C,Backbone 5,Backbone 5
+PD-L1,pdw_1412,matched,C,C,Backbone 5,Backbone 5
+PD-L1,pdw_1413,matched,C,C,Backbone 5,Backbone 5
+PD-L1,pdw_1414,matched,C,C,Backbone 5,Backbone 5
+PD-L1,pdw_1415,matched,parent,parent,Backbone 5,Backbone 5
+PD-L1,pdw_1416,matched,C,C,Backbone 6,Backbone 6
+PD-L1,pdw_1417,matched,C,C,Backbone 6,Backbone 6
+PD-L1,pdw_1418,matched,C,C,Backbone 6,Backbone 6
+PD-L1,pdw_1419,matched,C,C,Backbone 6,Backbone 6
+PD-L1,pdw_1420,matched,C,C,Backbone 6,Backbone 6
+PD-L1,pdw_1421,matched,parent,parent,Backbone 6,Backbone 6
+PD-L1,pdw_1422,matched,C,C,Backbone 7,Backbone 7
+PD-L1,pdw_1423,matched,C,C,Backbone 7,Backbone 7
+PD-L1,pdw_1424,matched,C,C,Backbone 7,Backbone 7
+PD-L1,pdw_1425,matched,C,C,Backbone 7,Backbone 7
+PD-L1,pdw_1426,matched,C,C,Backbone 7,Backbone 7
+PD-L1,pdw_1427,matched,parent,parent,Backbone 7,Backbone 7
+PD-L1,pdw_1428,matched,C,C,Backbone 8,Backbone 8
+PD-L1,pdw_1429,matched,C,C,Backbone 8,Backbone 8
+PD-L1,pdw_1430,matched,C,C,Backbone 8,Backbone 8
+PD-L1,pdw_1431,matched,C,C,Backbone 8,Backbone 8
+PD-L1,pdw_1432,matched,C,C,Backbone 8,Backbone 8
+PD-L1,pdw_1433,matched,parent,parent,Backbone 8,Backbone 8
+PD-L1,pdw_1434,matched,C,C,Backbone 9,Backbone 9
+PD-L1,pdw_1435,matched,C,C,Backbone 9,Backbone 9
+PD-L1,pdw_1436,matched,C,C,Backbone 9,Backbone 9
+PD-L1,pdw_1437,matched,C,C,Backbone 9,Backbone 9
+PD-L1,pdw_1438,matched,C,C,Backbone 9,Backbone 9
+PD-L1,pdw_1439,matched,parent,parent,Backbone 9,Backbone 9
+PD-L1,pdw_1440,matched,negative_C,negative_C,,Backbone 5
+PD-L1,pdw_1441,matched,WD,WD,Backbone 0,Backbone 0
+PD-L1,pdw_1442,matched,WD,WD,Backbone 0,Backbone 0
+PD-L1,pdw_1443,matched,WD,WD,Backbone 0,Backbone 0
+PD-L1,pdw_1444,matched,WD,WD,Backbone 0,Backbone 0
+PD-L1,pdw_1445,matched,WD,WD,Backbone 0,Backbone 0
+PD-L1,pdw_1446,matched,WD,WD,Backbone 0,Backbone 0
+PD-L1,pdw_1447,matched,WD,WD,Backbone 1,Backbone 1
+PD-L1,pdw_1448,matched,WD,WD,Backbone 1,Backbone 1
+PD-L1,pdw_1449,matched,WD,WD,Backbone 1,Backbone 1
+PD-L1,pdw_1450,matched,WD,WD,Backbone 1,Backbone 1
+PD-L1,pdw_1451,matched,WD,WD,Backbone 1,Backbone 1
+PD-L1,pdw_1452,matched,WD,WD,Backbone 1,Backbone 1
+PD-L1,pdw_1453,matched,WD,WD,Backbone 10,Backbone 10
+PD-L1,pdw_1454,matched,WD,WD,Backbone 10,Backbone 10
+PD-L1,pdw_1455,matched,WD,WD,Backbone 10,Backbone 10
+PD-L1,pdw_1456,matched,WD,WD,Backbone 10,Backbone 10
+PD-L1,pdw_1457,matched,WD,WD,Backbone 10,Backbone 10
+PD-L1,pdw_1458,matched,WD,WD,Backbone 10,Backbone 10
+PD-L1,pdw_1459,matched,WD,WD,Backbone 11,Backbone 11
+PD-L1,pdw_1460,matched,WD,WD,Backbone 11,Backbone 11
+PD-L1,pdw_1461,matched,WD,WD,Backbone 11,Backbone 11
+PD-L1,pdw_1462,matched,WD,WD,Backbone 11,Backbone 11
+PD-L1,pdw_1463,matched,WD,WD,Backbone 11,Backbone 11
+PD-L1,pdw_1464,matched,WD,WD,Backbone 11,Backbone 11
+PD-L1,pdw_1465,matched,WD,WD,Backbone 12,Backbone 12
+PD-L1,pdw_1466,matched,WD,WD,Backbone 12,Backbone 12
+PD-L1,pdw_1467,matched,WD,WD,Backbone 12,Backbone 12
+PD-L1,pdw_1468,matched,WD,WD,Backbone 12,Backbone 12
+PD-L1,pdw_1469,matched,WD,WD,Backbone 12,Backbone 12
+PD-L1,pdw_1470,matched,WD,WD,Backbone 12,Backbone 12
+PD-L1,pdw_1471,matched,WD,WD,Backbone 13,Backbone 13
+PD-L1,pdw_1472,matched,WD,WD,Backbone 13,Backbone 13
+PD-L1,pdw_1473,matched,WD,WD,Backbone 13,Backbone 13
+PD-L1,pdw_1474,matched,WD,WD,Backbone 13,Backbone 13
+PD-L1,pdw_1475,matched,WD,WD,Backbone 13,Backbone 13
+PD-L1,pdw_1476,matched,WD,WD,Backbone 13,Backbone 13
+PD-L1,pdw_1477,matched,WD,WD,Backbone 14,Backbone 14
+PD-L1,pdw_1478,matched,WD,WD,Backbone 14,Backbone 14
+PD-L1,pdw_1479,matched,WD,WD,Backbone 14,Backbone 14
+PD-L1,pdw_1480,matched,WD,WD,Backbone 14,Backbone 14
+PD-L1,pdw_1481,matched,WD,WD,Backbone 14,Backbone 14
+PD-L1,pdw_1482,matched,WD,WD,Backbone 2,Backbone 2
+PD-L1,pdw_1483,matched,WD,WD,Backbone 2,Backbone 2
+PD-L1,pdw_1484,matched,WD,WD,Backbone 2,Backbone 2
+PD-L1,pdw_1485,matched,WD,WD,Backbone 2,Backbone 2
+PD-L1,pdw_1486,matched,WD,WD,Backbone 2,Backbone 2
+PD-L1,pdw_1487,matched,WD,WD,Backbone 2,Backbone 2
+PD-L1,pdw_1488,matched,WD,WD,Backbone 3,Backbone 3
+PD-L1,pdw_1489,matched,WD,WD,Backbone 3,Backbone 3
+PD-L1,pdw_1490,matched,WD,WD,Backbone 3,Backbone 3
+PD-L1,pdw_1491,matched,WD,WD,Backbone 3,Backbone 3
+PD-L1,pdw_1492,matched,WD,WD,Backbone 3,Backbone 3
+PD-L1,pdw_1493,matched,WD,WD,Backbone 3,Backbone 3
+PD-L1,pdw_1494,matched,WD,WD,Backbone 4,Backbone 4
+PD-L1,pdw_1495,matched,WD,WD,Backbone 4,Backbone 4
+PD-L1,pdw_1496,matched,WD,WD,Backbone 4,Backbone 4
+PD-L1,pdw_1497,matched,WD,WD,Backbone 4,Backbone 4
+PD-L1,pdw_1498,matched,WD,WD,Backbone 4,Backbone 4
+PD-L1,pdw_1499,matched,WD,WD,Backbone 4,Backbone 4
+PD-L1,pdw_1500,matched,WD,WD,Backbone 5,Backbone 5
+PD-L1,pdw_1501,matched,WD,WD,Backbone 5,Backbone 5
+PD-L1,pdw_1502,matched,WD,WD,Backbone 5,Backbone 5
+PD-L1,pdw_1503,matched,WD,WD,Backbone 5,Backbone 5
+PD-L1,pdw_1504,matched,WD,WD,Backbone 5,Backbone 5
+PD-L1,pdw_1505,matched,WD,WD,Backbone 5,Backbone 5
+PD-L1,pdw_1506,matched,WD,WD,Backbone 6,Backbone 6
+PD-L1,pdw_1507,matched,WD,WD,Backbone 6,Backbone 6
+PD-L1,pdw_1508,matched,WD,WD,Backbone 6,Backbone 6
+PD-L1,pdw_1509,matched,WD,WD,Backbone 6,Backbone 6
+PD-L1,pdw_1510,matched,WD,WD,Backbone 6,Backbone 6
+PD-L1,pdw_1511,matched,WD,WD,Backbone 6,Backbone 6
+PD-L1,pdw_1512,matched,WD,WD,Backbone 7,Backbone 7
+PD-L1,pdw_1513,matched,WD,WD,Backbone 7,Backbone 7
+PD-L1,pdw_1514,matched,WD,WD,Backbone 7,Backbone 7
+PD-L1,pdw_1515,matched,WD,WD,Backbone 7,Backbone 7
+PD-L1,pdw_1516,matched,WD,WD,Backbone 7,Backbone 7
+PD-L1,pdw_1517,matched,WD,WD,Backbone 7,Backbone 7
+PD-L1,pdw_1518,matched,WD,WD,Backbone 8,Backbone 8
+PD-L1,pdw_1519,matched,WD,WD,Backbone 8,Backbone 8
+PD-L1,pdw_1520,matched,WD,WD,Backbone 8,Backbone 8
+PD-L1,pdw_1521,matched,WD,WD,Backbone 8,Backbone 8
+PD-L1,pdw_1522,matched,WD,WD,Backbone 8,Backbone 8
+PD-L1,pdw_1523,matched,WD,WD,Backbone 8,Backbone 8
+PD-L1,pdw_1524,matched,WD,WD,Backbone 9,Backbone 9
+PD-L1,pdw_1525,matched,WD,WD,Backbone 9,Backbone 9
+PD-L1,pdw_1526,matched,WD,WD,Backbone 9,Backbone 9
+PD-L1,pdw_1527,matched,WD,WD,Backbone 9,Backbone 9
+PD-L1,pdw_1528,matched,WD,WD,Backbone 9,Backbone 9
+PD-L1,pdw_1529,matched,WD,WD,Backbone 9,Backbone 9
+PD-L1,pdw_1530,matched,negative_WD,negative_WD,,Backbone 5
+PD-L1,pdw_1531,matched,WN,WN,Backbone 0,Backbone 0
+PD-L1,pdw_1532,matched,WN,WN,Backbone 0,Backbone 0
+PD-L1,pdw_1533,matched,WN,WN,Backbone 0,Backbone 0
+PD-L1,pdw_1534,matched,WN,WN,Backbone 0,Backbone 0
+PD-L1,pdw_1535,matched,WN,WN,Backbone 0,Backbone 0
+PD-L1,pdw_1536,matched,WN,WN,Backbone 0,Backbone 0
+PD-L1,pdw_1537,matched,WN,WN,Backbone 1,Backbone 1
+PD-L1,pdw_1538,matched,WN,WN,Backbone 1,Backbone 1
+PD-L1,pdw_1539,matched,WN,WN,Backbone 1,Backbone 1
+PD-L1,pdw_1540,matched,WN,WN,Backbone 1,Backbone 1
+PD-L1,pdw_1541,matched,WN,WN,Backbone 1,Backbone 1
+PD-L1,pdw_1542,matched,WN,WN,Backbone 1,Backbone 1
+PD-L1,pdw_1543,matched,WN,WN,Backbone 10,Backbone 10
+PD-L1,pdw_1544,matched,WN,WN,Backbone 10,Backbone 10
+PD-L1,pdw_1545,matched,WN,WN,Backbone 10,Backbone 10
+PD-L1,pdw_1546,matched,WN,WN,Backbone 10,Backbone 10
+PD-L1,pdw_1547,matched,WN,WN,Backbone 10,Backbone 10
+PD-L1,pdw_1548,matched,WN,WN,Backbone 10,Backbone 10
+PD-L1,pdw_1549,matched,WN,WN,Backbone 11,Backbone 11
+PD-L1,pdw_1550,matched,WN,WN,Backbone 11,Backbone 11
+PD-L1,pdw_1551,matched,WN,WN,Backbone 11,Backbone 11
+PD-L1,pdw_1552,matched,WN,WN,Backbone 11,Backbone 11
+PD-L1,pdw_1553,matched,WN,WN,Backbone 11,Backbone 11
+PD-L1,pdw_1554,matched,WN,WN,Backbone 11,Backbone 11
+PD-L1,pdw_1555,matched,WN,WN,Backbone 12,Backbone 12
+PD-L1,pdw_1556,matched,WN,WN,Backbone 12,Backbone 12
+PD-L1,pdw_1557,matched,WN,WN,Backbone 12,Backbone 12
+PD-L1,pdw_1558,matched,WN,WN,Backbone 12,Backbone 12
+PD-L1,pdw_1559,matched,WN,WN,Backbone 12,Backbone 12
+PD-L1,pdw_1560,matched,WN,WN,Backbone 12,Backbone 12
+PD-L1,pdw_1561,matched,WN,WN,Backbone 13,Backbone 13
+PD-L1,pdw_1562,matched,WN,WN,Backbone 13,Backbone 13
+PD-L1,pdw_1563,matched,WN,WN,Backbone 13,Backbone 13
+PD-L1,pdw_1564,matched,WN,WN,Backbone 13,Backbone 13
+PD-L1,pdw_1565,matched,WN,WN,Backbone 13,Backbone 13
+PD-L1,pdw_1566,matched,WN,WN,Backbone 13,Backbone 13
+PD-L1,pdw_1567,matched,WN,WN,Backbone 14,Backbone 14
+PD-L1,pdw_1568,matched,WN,WN,Backbone 14,Backbone 14
+PD-L1,pdw_1569,matched,WN,WN,Backbone 14,Backbone 14
+PD-L1,pdw_1570,matched,WN,WN,Backbone 14,Backbone 14
+PD-L1,pdw_1571,matched,WN,WN,Backbone 14,Backbone 14
+PD-L1,pdw_1572,matched,WN,WN,Backbone 2,Backbone 2
+PD-L1,pdw_1573,matched,WN,WN,Backbone 2,Backbone 2
+PD-L1,pdw_1574,matched,WN,WN,Backbone 2,Backbone 2
+PD-L1,pdw_1575,matched,WN,WN,Backbone 2,Backbone 2
+PD-L1,pdw_1576,matched,WN,WN,Backbone 2,Backbone 2
+PD-L1,pdw_1577,matched,WN,WN,Backbone 2,Backbone 2
+PD-L1,pdw_1578,matched,WN,WN,Backbone 3,Backbone 3
+PD-L1,pdw_1579,matched,WN,WN,Backbone 3,Backbone 3
+PD-L1,pdw_1580,matched,WN,WN,Backbone 3,Backbone 3
+PD-L1,pdw_1581,matched,WN,WN,Backbone 3,Backbone 3
+PD-L1,pdw_1582,matched,WN,WN,Backbone 3,Backbone 3
+PD-L1,pdw_1583,matched,WN,WN,Backbone 3,Backbone 3
+PD-L1,pdw_1584,matched,WN,WN,Backbone 4,Backbone 4
+PD-L1,pdw_1585,matched,WN,WN,Backbone 4,Backbone 4
+PD-L1,pdw_1586,matched,WN,WN,Backbone 4,Backbone 4
+PD-L1,pdw_1587,matched,WN,WN,Backbone 4,Backbone 4
+PD-L1,pdw_1588,matched,WN,WN,Backbone 4,Backbone 4
+PD-L1,pdw_1589,matched,WN,WN,Backbone 4,Backbone 4
+PD-L1,pdw_1590,matched,WN,WN,Backbone 5,Backbone 5
+PD-L1,pdw_1591,matched,WN,WN,Backbone 5,Backbone 5
+PD-L1,pdw_1592,matched,WN,WN,Backbone 5,Backbone 5
+PD-L1,pdw_1593,matched,WN,WN,Backbone 5,Backbone 5
+PD-L1,pdw_1594,matched,WN,WN,Backbone 5,Backbone 5
+PD-L1,pdw_1595,matched,WN,WN,Backbone 5,Backbone 5
+PD-L1,pdw_1596,matched,WN,WN,Backbone 6,Backbone 6
+PD-L1,pdw_1597,matched,WN,WN,Backbone 6,Backbone 6
+PD-L1,pdw_1598,matched,WN,WN,Backbone 6,Backbone 6
+PD-L1,pdw_1599,matched,WN,WN,Backbone 6,Backbone 6
+PD-L1,pdw_1600,matched,WN,WN,Backbone 6,Backbone 6
+PD-L1,pdw_1601,matched,WN,WN,Backbone 6,Backbone 6
+PD-L1,pdw_1602,matched,WN,WN,Backbone 7,Backbone 7
+PD-L1,pdw_1603,matched,WN,WN,Backbone 7,Backbone 7
+PD-L1,pdw_1604,matched,WN,WN,Backbone 7,Backbone 7
+PD-L1,pdw_1605,matched,WN,WN,Backbone 7,Backbone 7
+PD-L1,pdw_1606,matched,WN,WN,Backbone 7,Backbone 7
+PD-L1,pdw_1607,matched,WN,WN,Backbone 7,Backbone 7
+PD-L1,pdw_1608,matched,WN,WN,Backbone 8,Backbone 8
+PD-L1,pdw_1609,matched,WN,WN,Backbone 8,Backbone 8
+PD-L1,pdw_1610,matched,WN,WN,Backbone 8,Backbone 8
+PD-L1,pdw_1611,matched,WN,WN,Backbone 8,Backbone 8
+PD-L1,pdw_1612,matched,WN,WN,Backbone 8,Backbone 8
+PD-L1,pdw_1613,matched,WN,WN,Backbone 8,Backbone 8
+PD-L1,pdw_1614,matched,WN,WN,Backbone 9,Backbone 9
+PD-L1,pdw_1615,matched,WN,WN,Backbone 9,Backbone 9
+PD-L1,pdw_1616,matched,WN,WN,Backbone 9,Backbone 9
+PD-L1,pdw_1617,matched,WN,WN,Backbone 9,Backbone 9
+PD-L1,pdw_1618,matched,WN,WN,Backbone 9,Backbone 9
+PD-L1,pdw_1619,matched,WN,WN,Backbone 9,Backbone 9
+PD-L1,pdw_1620,matched,negative_WN,negative_WN,,Backbone 5
+SC2RBD,pdw_1081,left_only,C,NA,Backbone 0,NA
+SC2RBD,pdw_1082,left_only,C,NA,Backbone 0,NA
+SC2RBD,pdw_1083,left_only,C,NA,Backbone 0,NA
+SC2RBD,pdw_1084,left_only,C,NA,Backbone 0,NA
+SC2RBD,pdw_1085,left_only,C,NA,Backbone 0,NA
+SC2RBD,pdw_1086,left_only,parent,NA,Backbone 0,NA
+SC2RBD,pdw_1087,left_only,C,NA,Backbone 1,NA
+SC2RBD,pdw_1088,left_only,C,NA,Backbone 1,NA
+SC2RBD,pdw_1089,left_only,C,NA,Backbone 1,NA
+SC2RBD,pdw_1090,left_only,C,NA,Backbone 1,NA
+SC2RBD,pdw_1091,left_only,C,NA,Backbone 1,NA
+SC2RBD,pdw_1092,left_only,parent,NA,Backbone 1,NA
+SC2RBD,pdw_1093,left_only,C,NA,Backbone 2,NA
+SC2RBD,pdw_1094,left_only,C,NA,Backbone 2,NA
+SC2RBD,pdw_1095,left_only,C,NA,Backbone 2,NA
+SC2RBD,pdw_1096,left_only,C,NA,Backbone 2,NA
+SC2RBD,pdw_1097,left_only,C,NA,Backbone 2,NA
+SC2RBD,pdw_1098,left_only,parent,NA,Backbone 2,NA
+SC2RBD,pdw_1099,left_only,C,NA,Backbone 3,NA
+SC2RBD,pdw_1100,left_only,C,NA,Backbone 3,NA
+SC2RBD,pdw_1101,left_only,C,NA,Backbone 3,NA
+SC2RBD,pdw_1102,left_only,C,NA,Backbone 3,NA
+SC2RBD,pdw_1103,left_only,C,NA,Backbone 3,NA
+SC2RBD,pdw_1104,left_only,parent,NA,Backbone 3,NA
+SC2RBD,pdw_1105,left_only,C,NA,Backbone 4,NA
+SC2RBD,pdw_1106,left_only,C,NA,Backbone 4,NA
+SC2RBD,pdw_1107,left_only,C,NA,Backbone 4,NA
+SC2RBD,pdw_1108,left_only,C,NA,Backbone 4,NA
+SC2RBD,pdw_1109,left_only,C,NA,Backbone 4,NA
+SC2RBD,pdw_1110,left_only,parent,NA,Backbone 4,NA
+SC2RBD,pdw_1111,left_only,C,NA,Backbone 5,NA
+SC2RBD,pdw_1112,left_only,C,NA,Backbone 5,NA
+SC2RBD,pdw_1113,left_only,C,NA,Backbone 5,NA
+SC2RBD,pdw_1114,left_only,C,NA,Backbone 5,NA
+SC2RBD,pdw_1115,left_only,C,NA,Backbone 5,NA
+SC2RBD,pdw_1116,left_only,parent,NA,Backbone 5,NA
+SC2RBD,pdw_1117,left_only,C,NA,Backbone 6,NA
+SC2RBD,pdw_1118,left_only,C,NA,Backbone 6,NA
+SC2RBD,pdw_1119,left_only,C,NA,Backbone 6,NA
+SC2RBD,pdw_1120,left_only,C,NA,Backbone 6,NA
+SC2RBD,pdw_1121,left_only,C,NA,Backbone 6,NA
+SC2RBD,pdw_1122,left_only,parent,NA,Backbone 6,NA
+SC2RBD,pdw_1123,left_only,C,NA,Backbone 7,NA
+SC2RBD,pdw_1124,left_only,C,NA,Backbone 7,NA
+SC2RBD,pdw_1125,left_only,C,NA,Backbone 7,NA
+SC2RBD,pdw_1126,left_only,C,NA,Backbone 7,NA
+SC2RBD,pdw_1127,left_only,C,NA,Backbone 7,NA
+SC2RBD,pdw_1128,left_only,parent,NA,Backbone 7,NA
+SC2RBD,pdw_1129,left_only,C,NA,Backbone 8,NA
+SC2RBD,pdw_1130,left_only,C,NA,Backbone 8,NA
+SC2RBD,pdw_1131,left_only,C,NA,Backbone 8,NA
+SC2RBD,pdw_1132,left_only,C,NA,Backbone 8,NA
+SC2RBD,pdw_1133,left_only,C,NA,Backbone 8,NA
+SC2RBD,pdw_1134,left_only,parent,NA,Backbone 8,NA
+SC2RBD,pdw_1135,left_only,C,NA,Backbone 9,NA
+SC2RBD,pdw_1136,left_only,C,NA,Backbone 9,NA
+SC2RBD,pdw_1137,left_only,C,NA,Backbone 9,NA
+SC2RBD,pdw_1138,left_only,C,NA,Backbone 9,NA
+SC2RBD,pdw_1139,left_only,C,NA,Backbone 9,NA
+SC2RBD,pdw_1140,left_only,parent,NA,Backbone 9,NA
+SC2RBD,pdw_1141,left_only,C,NA,Backbone 10,NA
+SC2RBD,pdw_1142,left_only,C,NA,Backbone 10,NA
+SC2RBD,pdw_1143,left_only,C,NA,Backbone 10,NA
+SC2RBD,pdw_1144,left_only,C,NA,Backbone 10,NA
+SC2RBD,pdw_1145,left_only,C,NA,Backbone 10,NA
+SC2RBD,pdw_1146,left_only,parent,NA,Backbone 10,NA
+SC2RBD,pdw_1147,left_only,C,NA,Backbone 11,NA
+SC2RBD,pdw_1148,left_only,C,NA,Backbone 11,NA
+SC2RBD,pdw_1149,left_only,C,NA,Backbone 11,NA
+SC2RBD,pdw_1150,left_only,C,NA,Backbone 11,NA
+SC2RBD,pdw_1151,left_only,parent,NA,Backbone 11,NA
+SC2RBD,pdw_1152,left_only,C,NA,Backbone 12,NA
+SC2RBD,pdw_1153,left_only,C,NA,Backbone 12,NA
+SC2RBD,pdw_1154,left_only,C,NA,Backbone 12,NA
+SC2RBD,pdw_1155,left_only,C,NA,Backbone 12,NA
+SC2RBD,pdw_1156,left_only,C,NA,Backbone 12,NA
+SC2RBD,pdw_1157,left_only,parent,NA,Backbone 12,NA
+SC2RBD,pdw_1158,left_only,C,NA,Backbone 13,NA
+SC2RBD,pdw_1159,left_only,C,NA,Backbone 13,NA
+SC2RBD,pdw_1160,left_only,C,NA,Backbone 13,NA
+SC2RBD,pdw_1161,left_only,C,NA,Backbone 13,NA
+SC2RBD,pdw_1162,left_only,C,NA,Backbone 13,NA
+SC2RBD,pdw_1163,left_only,parent,NA,Backbone 13,NA
+SC2RBD,pdw_1164,left_only,C,NA,Backbone 14,NA
+SC2RBD,pdw_1165,left_only,C,NA,Backbone 14,NA
+SC2RBD,pdw_1166,left_only,C,NA,Backbone 14,NA
+SC2RBD,pdw_1167,left_only,C,NA,Backbone 14,NA
+SC2RBD,pdw_1168,left_only,C,NA,Backbone 14,NA
+SC2RBD,pdw_1169,left_only,parent,NA,Backbone 14,NA
+SC2RBD,pdw_1170,left_only,negative_C,NA,,NA
+SC2RBD,pdw_1171,left_only,WD,NA,Backbone 0,NA
+SC2RBD,pdw_1172,left_only,WD,NA,Backbone 0,NA
+SC2RBD,pdw_1173,left_only,WD,NA,Backbone 0,NA
+SC2RBD,pdw_1174,left_only,WD,NA,Backbone 0,NA
+SC2RBD,pdw_1175,left_only,WD,NA,Backbone 0,NA
+SC2RBD,pdw_1176,left_only,WD,NA,Backbone 0,NA
+SC2RBD,pdw_1177,left_only,WD,NA,Backbone 1,NA
+SC2RBD,pdw_1178,left_only,WD,NA,Backbone 1,NA
+SC2RBD,pdw_1179,left_only,WD,NA,Backbone 1,NA
+SC2RBD,pdw_1180,left_only,WD,NA,Backbone 1,NA
+SC2RBD,pdw_1181,left_only,WD,NA,Backbone 1,NA
+SC2RBD,pdw_1182,left_only,WD,NA,Backbone 1,NA
+SC2RBD,pdw_1183,left_only,WD,NA,Backbone 2,NA
+SC2RBD,pdw_1184,left_only,WD,NA,Backbone 2,NA
+SC2RBD,pdw_1185,left_only,WD,NA,Backbone 2,NA
+SC2RBD,pdw_1186,left_only,WD,NA,Backbone 2,NA
+SC2RBD,pdw_1187,left_only,WD,NA,Backbone 2,NA
+SC2RBD,pdw_1188,left_only,WD,NA,Backbone 2,NA
+SC2RBD,pdw_1189,left_only,WD,NA,Backbone 3,NA
+SC2RBD,pdw_1190,left_only,WD,NA,Backbone 3,NA
+SC2RBD,pdw_1191,left_only,WD,NA,Backbone 3,NA
+SC2RBD,pdw_1192,left_only,WD,NA,Backbone 3,NA
+SC2RBD,pdw_1193,left_only,WD,NA,Backbone 3,NA
+SC2RBD,pdw_1194,left_only,WD,NA,Backbone 3,NA
+SC2RBD,pdw_1195,left_only,WD,NA,Backbone 4,NA
+SC2RBD,pdw_1196,left_only,WD,NA,Backbone 4,NA
+SC2RBD,pdw_1197,left_only,WD,NA,Backbone 4,NA
+SC2RBD,pdw_1198,left_only,WD,NA,Backbone 4,NA
+SC2RBD,pdw_1199,left_only,WD,NA,Backbone 4,NA
+SC2RBD,pdw_1200,left_only,WD,NA,Backbone 4,NA
+SC2RBD,pdw_1201,left_only,WD,NA,Backbone 5,NA
+SC2RBD,pdw_1202,left_only,WD,NA,Backbone 5,NA
+SC2RBD,pdw_1203,left_only,WD,NA,Backbone 5,NA
+SC2RBD,pdw_1204,left_only,WD,NA,Backbone 5,NA
+SC2RBD,pdw_1205,left_only,WD,NA,Backbone 5,NA
+SC2RBD,pdw_1206,left_only,WD,NA,Backbone 5,NA
+SC2RBD,pdw_1207,left_only,WD,NA,Backbone 6,NA
+SC2RBD,pdw_1208,left_only,WD,NA,Backbone 6,NA
+SC2RBD,pdw_1209,left_only,WD,NA,Backbone 6,NA
+SC2RBD,pdw_1210,left_only,WD,NA,Backbone 6,NA
+SC2RBD,pdw_1211,left_only,WD,NA,Backbone 6,NA
+SC2RBD,pdw_1212,left_only,WD,NA,Backbone 6,NA
+SC2RBD,pdw_1213,left_only,WD,NA,Backbone 7,NA
+SC2RBD,pdw_1214,left_only,WD,NA,Backbone 7,NA
+SC2RBD,pdw_1215,left_only,WD,NA,Backbone 7,NA
+SC2RBD,pdw_1216,left_only,WD,NA,Backbone 7,NA
+SC2RBD,pdw_1217,left_only,WD,NA,Backbone 7,NA
+SC2RBD,pdw_1218,left_only,WD,NA,Backbone 7,NA
+SC2RBD,pdw_1219,left_only,WD,NA,Backbone 8,NA
+SC2RBD,pdw_1220,left_only,WD,NA,Backbone 8,NA
+SC2RBD,pdw_1221,left_only,WD,NA,Backbone 8,NA
+SC2RBD,pdw_1222,left_only,WD,NA,Backbone 8,NA
+SC2RBD,pdw_1223,left_only,WD,NA,Backbone 8,NA
+SC2RBD,pdw_1224,left_only,WD,NA,Backbone 8,NA
+SC2RBD,pdw_1225,left_only,WD,NA,Backbone 9,NA
+SC2RBD,pdw_1226,left_only,WD,NA,Backbone 9,NA
+SC2RBD,pdw_1227,left_only,WD,NA,Backbone 9,NA
+SC2RBD,pdw_1228,left_only,WD,NA,Backbone 9,NA
+SC2RBD,pdw_1229,left_only,WD,NA,Backbone 9,NA
+SC2RBD,pdw_1230,left_only,WD,NA,Backbone 9,NA
+SC2RBD,pdw_1231,left_only,WD,NA,Backbone 10,NA
+SC2RBD,pdw_1232,left_only,WD,NA,Backbone 10,NA
+SC2RBD,pdw_1233,left_only,WD,NA,Backbone 10,NA
+SC2RBD,pdw_1234,left_only,WD,NA,Backbone 10,NA
+SC2RBD,pdw_1235,left_only,WD,NA,Backbone 10,NA
+SC2RBD,pdw_1236,left_only,WD,NA,Backbone 10,NA
+SC2RBD,pdw_1237,left_only,WD,NA,Backbone 11,NA
+SC2RBD,pdw_1238,left_only,WD,NA,Backbone 11,NA
+SC2RBD,pdw_1239,left_only,WD,NA,Backbone 11,NA
+SC2RBD,pdw_1240,left_only,WD,NA,Backbone 11,NA
+SC2RBD,pdw_1241,left_only,WD,NA,Backbone 11,NA
+SC2RBD,pdw_1242,left_only,WD,NA,Backbone 12,NA
+SC2RBD,pdw_1243,left_only,WD,NA,Backbone 12,NA
+SC2RBD,pdw_1244,left_only,WD,NA,Backbone 12,NA
+SC2RBD,pdw_1245,left_only,WD,NA,Backbone 12,NA
+SC2RBD,pdw_1246,left_only,WD,NA,Backbone 12,NA
+SC2RBD,pdw_1247,left_only,WD,NA,Backbone 12,NA
+SC2RBD,pdw_1248,left_only,WD,NA,Backbone 13,NA
+SC2RBD,pdw_1249,left_only,WD,NA,Backbone 13,NA
+SC2RBD,pdw_1250,left_only,WD,NA,Backbone 13,NA
+SC2RBD,pdw_1251,left_only,WD,NA,Backbone 13,NA
+SC2RBD,pdw_1252,left_only,WD,NA,Backbone 13,NA
+SC2RBD,pdw_1253,left_only,WD,NA,Backbone 13,NA
+SC2RBD,pdw_1254,left_only,WD,NA,Backbone 14,NA
+SC2RBD,pdw_1255,left_only,WD,NA,Backbone 14,NA
+SC2RBD,pdw_1256,left_only,WD,NA,Backbone 14,NA
+SC2RBD,pdw_1257,left_only,WD,NA,Backbone 14,NA
+SC2RBD,pdw_1258,left_only,WD,NA,Backbone 14,NA
+SC2RBD,pdw_1259,left_only,WD,NA,Backbone 14,NA
+SC2RBD,pdw_1260,left_only,negative_WD,NA,,NA
+SC2RBD,pdw_1261,left_only,WN,NA,Backbone 0,NA
+SC2RBD,pdw_1262,left_only,WN,NA,Backbone 0,NA
+SC2RBD,pdw_1263,left_only,WN,NA,Backbone 0,NA
+SC2RBD,pdw_1264,left_only,WN,NA,Backbone 0,NA
+SC2RBD,pdw_1265,left_only,WN,NA,Backbone 0,NA
+SC2RBD,pdw_1266,left_only,WN,NA,Backbone 0,NA
+SC2RBD,pdw_1267,left_only,WN,NA,Backbone 1,NA
+SC2RBD,pdw_1268,left_only,WN,NA,Backbone 1,NA
+SC2RBD,pdw_1269,left_only,WN,NA,Backbone 1,NA
+SC2RBD,pdw_1270,left_only,WN,NA,Backbone 1,NA
+SC2RBD,pdw_1271,left_only,WN,NA,Backbone 1,NA
+SC2RBD,pdw_1272,left_only,WN,NA,Backbone 1,NA
+SC2RBD,pdw_1273,left_only,WN,NA,Backbone 2,NA
+SC2RBD,pdw_1274,left_only,WN,NA,Backbone 2,NA
+SC2RBD,pdw_1275,left_only,WN,NA,Backbone 2,NA
+SC2RBD,pdw_1276,left_only,WN,NA,Backbone 2,NA
+SC2RBD,pdw_1277,left_only,WN,NA,Backbone 2,NA
+SC2RBD,pdw_1278,left_only,WN,NA,Backbone 2,NA
+SC2RBD,pdw_1279,left_only,WN,NA,Backbone 3,NA
+SC2RBD,pdw_1280,left_only,WN,NA,Backbone 3,NA
+SC2RBD,pdw_1281,left_only,WN,NA,Backbone 3,NA
+SC2RBD,pdw_1282,left_only,WN,NA,Backbone 3,NA
+SC2RBD,pdw_1283,left_only,WN,NA,Backbone 3,NA
+SC2RBD,pdw_1284,left_only,WN,NA,Backbone 3,NA
+SC2RBD,pdw_1285,left_only,WN,NA,Backbone 4,NA
+SC2RBD,pdw_1286,left_only,WN,NA,Backbone 4,NA
+SC2RBD,pdw_1287,left_only,WN,NA,Backbone 4,NA
+SC2RBD,pdw_1288,left_only,WN,NA,Backbone 4,NA
+SC2RBD,pdw_1289,left_only,WN,NA,Backbone 4,NA
+SC2RBD,pdw_1290,left_only,WN,NA,Backbone 4,NA
+SC2RBD,pdw_1291,left_only,WN,NA,Backbone 5,NA
+SC2RBD,pdw_1292,left_only,WN,NA,Backbone 5,NA
+SC2RBD,pdw_1293,left_only,WN,NA,Backbone 5,NA
+SC2RBD,pdw_1294,left_only,WN,NA,Backbone 5,NA
+SC2RBD,pdw_1295,left_only,WN,NA,Backbone 5,NA
+SC2RBD,pdw_1296,left_only,WN,NA,Backbone 5,NA
+SC2RBD,pdw_1297,left_only,WN,NA,Backbone 6,NA
+SC2RBD,pdw_1298,left_only,WN,NA,Backbone 6,NA
+SC2RBD,pdw_1299,left_only,WN,NA,Backbone 6,NA
+SC2RBD,pdw_1300,left_only,WN,NA,Backbone 6,NA
+SC2RBD,pdw_1301,left_only,WN,NA,Backbone 6,NA
+SC2RBD,pdw_1302,left_only,WN,NA,Backbone 6,NA
+SC2RBD,pdw_1303,left_only,WN,NA,Backbone 7,NA
+SC2RBD,pdw_1304,left_only,WN,NA,Backbone 7,NA
+SC2RBD,pdw_1305,left_only,WN,NA,Backbone 7,NA
+SC2RBD,pdw_1306,left_only,WN,NA,Backbone 7,NA
+SC2RBD,pdw_1307,left_only,WN,NA,Backbone 7,NA
+SC2RBD,pdw_1308,left_only,WN,NA,Backbone 7,NA
+SC2RBD,pdw_1309,left_only,WN,NA,Backbone 8,NA
+SC2RBD,pdw_1310,left_only,WN,NA,Backbone 8,NA
+SC2RBD,pdw_1311,left_only,WN,NA,Backbone 8,NA
+SC2RBD,pdw_1312,left_only,WN,NA,Backbone 8,NA
+SC2RBD,pdw_1313,left_only,WN,NA,Backbone 8,NA
+SC2RBD,pdw_1314,left_only,WN,NA,Backbone 8,NA
+SC2RBD,pdw_1315,left_only,WN,NA,Backbone 9,NA
+SC2RBD,pdw_1316,left_only,WN,NA,Backbone 9,NA
+SC2RBD,pdw_1317,left_only,WN,NA,Backbone 9,NA
+SC2RBD,pdw_1318,left_only,WN,NA,Backbone 9,NA
+SC2RBD,pdw_1319,left_only,WN,NA,Backbone 9,NA
+SC2RBD,pdw_1320,left_only,WN,NA,Backbone 9,NA
+SC2RBD,pdw_1321,left_only,WN,NA,Backbone 10,NA
+SC2RBD,pdw_1322,left_only,WN,NA,Backbone 10,NA
+SC2RBD,pdw_1323,left_only,WN,NA,Backbone 10,NA
+SC2RBD,pdw_1324,left_only,WN,NA,Backbone 10,NA
+SC2RBD,pdw_1325,left_only,WN,NA,Backbone 10,NA
+SC2RBD,pdw_1326,left_only,WN,NA,Backbone 10,NA
+SC2RBD,pdw_1327,left_only,WN,NA,Backbone 11,NA
+SC2RBD,pdw_1328,left_only,WN,NA,Backbone 11,NA
+SC2RBD,pdw_1329,left_only,WN,NA,Backbone 11,NA
+SC2RBD,pdw_1330,left_only,WN,NA,Backbone 11,NA
+SC2RBD,pdw_1331,left_only,WN,NA,Backbone 11,NA
+SC2RBD,pdw_1332,left_only,WN,NA,Backbone 12,NA
+SC2RBD,pdw_1333,left_only,WN,NA,Backbone 12,NA
+SC2RBD,pdw_1334,left_only,WN,NA,Backbone 12,NA
+SC2RBD,pdw_1335,left_only,WN,NA,Backbone 12,NA
+SC2RBD,pdw_1336,left_only,WN,NA,Backbone 12,NA
+SC2RBD,pdw_1337,left_only,WN,NA,Backbone 12,NA
+SC2RBD,pdw_1338,left_only,WN,NA,Backbone 13,NA
+SC2RBD,pdw_1339,left_only,WN,NA,Backbone 13,NA
+SC2RBD,pdw_1340,left_only,WN,NA,Backbone 13,NA
+SC2RBD,pdw_1341,left_only,WN,NA,Backbone 13,NA
+SC2RBD,pdw_1342,left_only,WN,NA,Backbone 13,NA
+SC2RBD,pdw_1343,left_only,WN,NA,Backbone 13,NA
+SC2RBD,pdw_1344,left_only,WN,NA,Backbone 14,NA
+SC2RBD,pdw_1345,left_only,WN,NA,Backbone 14,NA
+SC2RBD,pdw_1346,left_only,WN,NA,Backbone 14,NA
+SC2RBD,pdw_1347,left_only,WN,NA,Backbone 14,NA
+SC2RBD,pdw_1348,left_only,WN,NA,Backbone 14,NA
+SC2RBD,pdw_1349,left_only,WN,NA,Backbone 14,NA
+SC2RBD,pdw_1350,left_only,negative_WN,NA,,NA
+VEGF-A,pdw_0811,matched,negative_C,negative_C,,Backbone 11
+VEGF-A,pdw_0812,matched,C,C,Backbone 0,Backbone 0
+VEGF-A,pdw_0813,matched,C,C,Backbone 0,Backbone 0
+VEGF-A,pdw_0814,matched,C,C,Backbone 0,Backbone 0
+VEGF-A,pdw_0815,matched,C,C,Backbone 0,Backbone 0
+VEGF-A,pdw_0816,matched,C,C,Backbone 0,Backbone 0
+VEGF-A,pdw_0817,matched,parent,parent,Backbone 0,Backbone 0
+VEGF-A,pdw_0818,matched,C,C,Backbone 1,Backbone 1
+VEGF-A,pdw_0819,matched,C,C,Backbone 1,Backbone 1
+VEGF-A,pdw_0820,matched,C,C,Backbone 1,Backbone 1
+VEGF-A,pdw_0821,matched,C,C,Backbone 1,Backbone 1
+VEGF-A,pdw_0822,matched,C,C,Backbone 1,Backbone 1
+VEGF-A,pdw_0823,matched,parent,parent,Backbone 1,Backbone 1
+VEGF-A,pdw_0824,matched,C,C,Backbone 2,Backbone 2
+VEGF-A,pdw_0825,matched,C,C,Backbone 2,Backbone 2
+VEGF-A,pdw_0826,matched,C,C,Backbone 2,Backbone 2
+VEGF-A,pdw_0827,matched,C,C,Backbone 2,Backbone 2
+VEGF-A,pdw_0828,matched,C,C,Backbone 2,Backbone 2
+VEGF-A,pdw_0829,matched,parent,parent,Backbone 2,Backbone 2
+VEGF-A,pdw_0830,matched,C,C,Backbone 3,Backbone 3
+VEGF-A,pdw_0831,matched,C,C,Backbone 3,Backbone 3
+VEGF-A,pdw_0832,matched,C,C,Backbone 3,Backbone 3
+VEGF-A,pdw_0833,matched,C,C,Backbone 3,Backbone 3
+VEGF-A,pdw_0834,matched,C,C,Backbone 3,Backbone 3
+VEGF-A,pdw_0835,matched,parent,parent,Backbone 3,Backbone 3
+VEGF-A,pdw_0836,matched,C,C,Backbone 4,Backbone 4
+VEGF-A,pdw_0837,matched,C,C,Backbone 4,Backbone 4
+VEGF-A,pdw_0838,matched,C,C,Backbone 4,Backbone 4
+VEGF-A,pdw_0839,matched,C,C,Backbone 4,Backbone 4
+VEGF-A,pdw_0840,matched,C,C,Backbone 4,Backbone 4
+VEGF-A,pdw_0841,matched,parent,parent,Backbone 4,Backbone 4
+VEGF-A,pdw_0842,matched,C,C,Backbone 5,Backbone 5
+VEGF-A,pdw_0843,matched,C,C,Backbone 5,Backbone 5
+VEGF-A,pdw_0844,matched,C,C,Backbone 5,Backbone 5
+VEGF-A,pdw_0845,matched,C,C,Backbone 5,Backbone 5
+VEGF-A,pdw_0846,matched,parent,parent,Backbone 5,Backbone 5
+VEGF-A,pdw_0847,matched,C,C,Backbone 6,Backbone 6
+VEGF-A,pdw_0848,matched,C,C,Backbone 6,Backbone 6
+VEGF-A,pdw_0849,matched,C,C,Backbone 6,Backbone 6
+VEGF-A,pdw_0850,matched,C,C,Backbone 6,Backbone 6
+VEGF-A,pdw_0851,matched,C,C,Backbone 6,Backbone 6
+VEGF-A,pdw_0852,matched,parent,parent,Backbone 6,Backbone 6
+VEGF-A,pdw_0853,matched,C,C,Backbone 7,Backbone 7
+VEGF-A,pdw_0854,matched,C,C,Backbone 7,Backbone 7
+VEGF-A,pdw_0855,matched,C,C,Backbone 7,Backbone 7
+VEGF-A,pdw_0856,matched,C,C,Backbone 7,Backbone 7
+VEGF-A,pdw_0857,matched,C,C,Backbone 7,Backbone 7
+VEGF-A,pdw_0858,matched,parent,parent,Backbone 7,Backbone 7
+VEGF-A,pdw_0859,matched,C,C,Backbone 8,Backbone 8
+VEGF-A,pdw_0860,matched,C,C,Backbone 8,Backbone 8
+VEGF-A,pdw_0861,matched,C,C,Backbone 8,Backbone 8
+VEGF-A,pdw_0862,matched,C,C,Backbone 8,Backbone 8
+VEGF-A,pdw_0863,matched,C,C,Backbone 8,Backbone 8
+VEGF-A,pdw_0864,matched,parent,parent,Backbone 8,Backbone 8
+VEGF-A,pdw_0865,matched,C,C,Backbone 9,Backbone 9
+VEGF-A,pdw_0866,matched,C,C,Backbone 9,Backbone 9
+VEGF-A,pdw_0867,matched,C,C,Backbone 9,Backbone 9
+VEGF-A,pdw_0868,matched,C,C,Backbone 9,Backbone 9
+VEGF-A,pdw_0869,matched,C,C,Backbone 9,Backbone 9
+VEGF-A,pdw_0870,matched,parent,parent,Backbone 9,Backbone 9
+VEGF-A,pdw_0871,matched,C,C,Backbone 10,Backbone 10
+VEGF-A,pdw_0872,matched,C,C,Backbone 10,Backbone 10
+VEGF-A,pdw_0873,matched,C,C,Backbone 10,Backbone 10
+VEGF-A,pdw_0874,matched,C,C,Backbone 10,Backbone 10
+VEGF-A,pdw_0875,matched,C,C,Backbone 10,Backbone 10
+VEGF-A,pdw_0876,matched,parent,parent,Backbone 10,Backbone 10
+VEGF-A,pdw_0877,matched,C,C,Backbone 11,Backbone 11
+VEGF-A,pdw_0878,matched,C,C,Backbone 11,Backbone 11
+VEGF-A,pdw_0879,matched,C,C,Backbone 11,Backbone 11
+VEGF-A,pdw_0880,matched,C,C,Backbone 11,Backbone 11
+VEGF-A,pdw_0881,matched,C,C,Backbone 11,Backbone 11
+VEGF-A,pdw_0882,matched,parent,parent,Backbone 11,Backbone 11
+VEGF-A,pdw_0883,matched,C,C,Backbone 12,Backbone 12
+VEGF-A,pdw_0884,matched,C,C,Backbone 12,Backbone 12
+VEGF-A,pdw_0885,matched,C,C,Backbone 12,Backbone 12
+VEGF-A,pdw_0886,matched,C,C,Backbone 12,Backbone 12
+VEGF-A,pdw_0887,matched,C,C,Backbone 12,Backbone 12
+VEGF-A,pdw_0888,matched,parent,parent,Backbone 12,Backbone 12
+VEGF-A,pdw_0889,matched,C,C,Backbone 13,Backbone 13
+VEGF-A,pdw_0890,matched,C,C,Backbone 13,Backbone 13
+VEGF-A,pdw_0891,matched,C,C,Backbone 13,Backbone 13
+VEGF-A,pdw_0892,matched,C,C,Backbone 13,Backbone 13
+VEGF-A,pdw_0893,matched,C,C,Backbone 13,Backbone 13
+VEGF-A,pdw_0894,matched,parent,parent,Backbone 13,Backbone 13
+VEGF-A,pdw_0895,matched,C,C,Backbone 14,Backbone 14
+VEGF-A,pdw_0896,matched,C,C,Backbone 14,Backbone 14
+VEGF-A,pdw_0897,matched,C,C,Backbone 14,Backbone 14
+VEGF-A,pdw_0898,matched,C,C,Backbone 14,Backbone 14
+VEGF-A,pdw_0899,matched,C,C,Backbone 14,Backbone 14
+VEGF-A,pdw_0900,matched,parent,parent,Backbone 14,Backbone 14
+VEGF-A,pdw_0901,matched,negative_WD,negative_WD,,Backbone 11
+VEGF-A,pdw_0902,matched,WD,WD,Backbone 0,Backbone 0
+VEGF-A,pdw_0903,matched,WD,WD,Backbone 0,Backbone 0
+VEGF-A,pdw_0904,matched,WD,WD,Backbone 0,Backbone 0
+VEGF-A,pdw_0905,matched,WD,WD,Backbone 0,Backbone 0
+VEGF-A,pdw_0906,matched,WD,WD,Backbone 0,Backbone 0
+VEGF-A,pdw_0907,matched,WD,WD,Backbone 0,Backbone 0
+VEGF-A,pdw_0908,matched,WD,WD,Backbone 1,Backbone 1
+VEGF-A,pdw_0909,matched,WD,WD,Backbone 1,Backbone 1
+VEGF-A,pdw_0910,matched,WD,WD,Backbone 1,Backbone 1
+VEGF-A,pdw_0911,matched,WD,WD,Backbone 1,Backbone 1
+VEGF-A,pdw_0912,matched,WD,WD,Backbone 1,Backbone 1
+VEGF-A,pdw_0913,matched,WD,WD,Backbone 1,Backbone 1
+VEGF-A,pdw_0914,matched,WD,WD,Backbone 2,Backbone 2
+VEGF-A,pdw_0915,matched,WD,WD,Backbone 2,Backbone 2
+VEGF-A,pdw_0916,matched,WD,WD,Backbone 2,Backbone 2
+VEGF-A,pdw_0917,matched,WD,WD,Backbone 2,Backbone 2
+VEGF-A,pdw_0918,matched,WD,WD,Backbone 2,Backbone 2
+VEGF-A,pdw_0919,matched,WD,WD,Backbone 2,Backbone 2
+VEGF-A,pdw_0920,matched,WD,WD,Backbone 3,Backbone 3
+VEGF-A,pdw_0921,matched,WD,WD,Backbone 3,Backbone 3
+VEGF-A,pdw_0922,matched,WD,WD,Backbone 3,Backbone 3
+VEGF-A,pdw_0923,matched,WD,WD,Backbone 3,Backbone 3
+VEGF-A,pdw_0924,matched,WD,WD,Backbone 3,Backbone 3
+VEGF-A,pdw_0925,matched,WD,WD,Backbone 3,Backbone 3
+VEGF-A,pdw_0926,matched,WD,WD,Backbone 4,Backbone 4
+VEGF-A,pdw_0927,matched,WD,WD,Backbone 4,Backbone 4
+VEGF-A,pdw_0928,matched,WD,WD,Backbone 4,Backbone 4
+VEGF-A,pdw_0929,matched,WD,WD,Backbone 4,Backbone 4
+VEGF-A,pdw_0930,matched,WD,WD,Backbone 4,Backbone 4
+VEGF-A,pdw_0931,matched,WD,WD,Backbone 4,Backbone 4
+VEGF-A,pdw_0932,matched,WD,WD,Backbone 5,Backbone 5
+VEGF-A,pdw_0933,matched,WD,WD,Backbone 5,Backbone 5
+VEGF-A,pdw_0934,matched,WD,WD,Backbone 5,Backbone 5
+VEGF-A,pdw_0935,matched,WD,WD,Backbone 5,Backbone 5
+VEGF-A,pdw_0936,matched,WD,WD,Backbone 5,Backbone 5
+VEGF-A,pdw_0937,matched,WD,WD,Backbone 6,Backbone 6
+VEGF-A,pdw_0938,matched,WD,WD,Backbone 6,Backbone 6
+VEGF-A,pdw_0939,matched,WD,WD,Backbone 6,Backbone 6
+VEGF-A,pdw_0940,matched,WD,WD,Backbone 6,Backbone 6
+VEGF-A,pdw_0941,matched,WD,WD,Backbone 6,Backbone 6
+VEGF-A,pdw_0942,matched,WD,WD,Backbone 6,Backbone 6
+VEGF-A,pdw_0943,matched,WD,WD,Backbone 7,Backbone 7
+VEGF-A,pdw_0944,matched,WD,WD,Backbone 7,Backbone 7
+VEGF-A,pdw_0945,matched,WD,WD,Backbone 7,Backbone 7
+VEGF-A,pdw_0946,matched,WD,WD,Backbone 7,Backbone 7
+VEGF-A,pdw_0947,matched,WD,WD,Backbone 7,Backbone 7
+VEGF-A,pdw_0948,matched,WD,WD,Backbone 7,Backbone 7
+VEGF-A,pdw_0949,matched,WD,WD,Backbone 8,Backbone 8
+VEGF-A,pdw_0950,matched,WD,WD,Backbone 8,Backbone 8
+VEGF-A,pdw_0951,matched,WD,WD,Backbone 8,Backbone 8
+VEGF-A,pdw_0952,matched,WD,WD,Backbone 8,Backbone 8
+VEGF-A,pdw_0953,matched,WD,WD,Backbone 8,Backbone 8
+VEGF-A,pdw_0954,matched,WD,WD,Backbone 8,Backbone 8
+VEGF-A,pdw_0955,matched,WD,WD,Backbone 9,Backbone 9
+VEGF-A,pdw_0956,matched,WD,WD,Backbone 9,Backbone 9
+VEGF-A,pdw_0957,matched,WD,WD,Backbone 9,Backbone 9
+VEGF-A,pdw_0958,matched,WD,WD,Backbone 9,Backbone 9
+VEGF-A,pdw_0959,matched,WD,WD,Backbone 9,Backbone 9
+VEGF-A,pdw_0960,matched,WD,WD,Backbone 9,Backbone 9
+VEGF-A,pdw_0961,matched,WD,WD,Backbone 10,Backbone 10
+VEGF-A,pdw_0962,matched,WD,WD,Backbone 10,Backbone 10
+VEGF-A,pdw_0963,matched,WD,WD,Backbone 10,Backbone 10
+VEGF-A,pdw_0964,matched,WD,WD,Backbone 10,Backbone 10
+VEGF-A,pdw_0965,matched,WD,WD,Backbone 10,Backbone 10
+VEGF-A,pdw_0966,matched,WD,WD,Backbone 10,Backbone 10
+VEGF-A,pdw_0967,matched,WD,WD,Backbone 11,Backbone 11
+VEGF-A,pdw_0968,matched,WD,WD,Backbone 11,Backbone 11
+VEGF-A,pdw_0969,matched,WD,WD,Backbone 11,Backbone 11
+VEGF-A,pdw_0970,matched,WD,WD,Backbone 11,Backbone 11
+VEGF-A,pdw_0971,matched,WD,WD,Backbone 11,Backbone 11
+VEGF-A,pdw_0972,matched,WD,WD,Backbone 11,Backbone 11
+VEGF-A,pdw_0973,matched,WD,WD,Backbone 12,Backbone 12
+VEGF-A,pdw_0974,matched,WD,WD,Backbone 12,Backbone 12
+VEGF-A,pdw_0975,matched,WD,WD,Backbone 12,Backbone 12
+VEGF-A,pdw_0976,matched,WD,WD,Backbone 12,Backbone 12
+VEGF-A,pdw_0977,matched,WD,WD,Backbone 12,Backbone 12
+VEGF-A,pdw_0978,matched,WD,WD,Backbone 12,Backbone 12
+VEGF-A,pdw_0979,matched,WD,WD,Backbone 13,Backbone 13
+VEGF-A,pdw_0980,matched,WD,WD,Backbone 13,Backbone 13
+VEGF-A,pdw_0981,matched,WD,WD,Backbone 13,Backbone 13
+VEGF-A,pdw_0982,matched,WD,WD,Backbone 13,Backbone 13
+VEGF-A,pdw_0983,matched,WD,WD,Backbone 13,Backbone 13
+VEGF-A,pdw_0984,matched,WD,WD,Backbone 13,Backbone 13
+VEGF-A,pdw_0985,matched,WD,WD,Backbone 14,Backbone 14
+VEGF-A,pdw_0986,matched,WD,WD,Backbone 14,Backbone 14
+VEGF-A,pdw_0987,matched,WD,WD,Backbone 14,Backbone 14
+VEGF-A,pdw_0988,matched,WD,WD,Backbone 14,Backbone 14
+VEGF-A,pdw_0989,matched,WD,WD,Backbone 14,Backbone 14
+VEGF-A,pdw_0990,matched,WD,WD,Backbone 14,Backbone 14
+VEGF-A,pdw_0991,matched,negative_WN,negative_WN,,Backbone 11
+VEGF-A,pdw_0992,matched,WN,WN,Backbone 0,Backbone 0
+VEGF-A,pdw_0993,matched,WN,WN,Backbone 0,Backbone 0
+VEGF-A,pdw_0994,matched,WN,WN,Backbone 0,Backbone 0
+VEGF-A,pdw_0995,matched,WN,WN,Backbone 0,Backbone 0
+VEGF-A,pdw_0996,matched,WN,WN,Backbone 0,Backbone 0
+VEGF-A,pdw_0997,matched,WN,WN,Backbone 0,Backbone 0
+VEGF-A,pdw_0998,matched,WN,WN,Backbone 1,Backbone 1
+VEGF-A,pdw_0999,matched,WN,WN,Backbone 1,Backbone 1
+VEGF-A,pdw_1000,matched,WN,WN,Backbone 1,Backbone 1
+VEGF-A,pdw_1001,matched,WN,WN,Backbone 1,Backbone 1
+VEGF-A,pdw_1002,matched,WN,WN,Backbone 1,Backbone 1
+VEGF-A,pdw_1003,matched,WN,WN,Backbone 1,Backbone 1
+VEGF-A,pdw_1004,matched,WN,WN,Backbone 2,Backbone 2
+VEGF-A,pdw_1005,matched,WN,WN,Backbone 2,Backbone 2
+VEGF-A,pdw_1006,matched,WN,WN,Backbone 2,Backbone 2
+VEGF-A,pdw_1007,matched,WN,WN,Backbone 2,Backbone 2
+VEGF-A,pdw_1008,matched,WN,WN,Backbone 2,Backbone 2
+VEGF-A,pdw_1009,matched,WN,WN,Backbone 2,Backbone 2
+VEGF-A,pdw_1010,matched,WN,WN,Backbone 3,Backbone 3
+VEGF-A,pdw_1011,matched,WN,WN,Backbone 3,Backbone 3
+VEGF-A,pdw_1012,matched,WN,WN,Backbone 3,Backbone 3
+VEGF-A,pdw_1013,matched,WN,WN,Backbone 3,Backbone 3
+VEGF-A,pdw_1014,matched,WN,WN,Backbone 3,Backbone 3
+VEGF-A,pdw_1015,matched,WN,WN,Backbone 3,Backbone 3
+VEGF-A,pdw_1016,matched,WN,WN,Backbone 4,Backbone 4
+VEGF-A,pdw_1017,matched,WN,WN,Backbone 4,Backbone 4
+VEGF-A,pdw_1018,matched,WN,WN,Backbone 4,Backbone 4
+VEGF-A,pdw_1019,matched,WN,WN,Backbone 4,Backbone 4
+VEGF-A,pdw_1020,matched,WN,WN,Backbone 4,Backbone 4
+VEGF-A,pdw_1021,matched,WN,WN,Backbone 4,Backbone 4
+VEGF-A,pdw_1022,matched,WN,WN,Backbone 5,Backbone 5
+VEGF-A,pdw_1023,matched,WN,WN,Backbone 5,Backbone 5
+VEGF-A,pdw_1024,matched,WN,WN,Backbone 5,Backbone 5
+VEGF-A,pdw_1025,matched,WN,WN,Backbone 5,Backbone 5
+VEGF-A,pdw_1026,matched,WN,WN,Backbone 5,Backbone 5
+VEGF-A,pdw_1027,matched,WN,WN,Backbone 6,Backbone 6
+VEGF-A,pdw_1028,matched,WN,WN,Backbone 6,Backbone 6
+VEGF-A,pdw_1029,matched,WN,WN,Backbone 6,Backbone 6
+VEGF-A,pdw_1030,matched,WN,WN,Backbone 6,Backbone 6
+VEGF-A,pdw_1031,matched,WN,WN,Backbone 6,Backbone 6
+VEGF-A,pdw_1032,matched,WN,WN,Backbone 6,Backbone 6
+VEGF-A,pdw_1033,matched,WN,WN,Backbone 7,Backbone 7
+VEGF-A,pdw_1034,matched,WN,WN,Backbone 7,Backbone 7
+VEGF-A,pdw_1035,matched,WN,WN,Backbone 7,Backbone 7
+VEGF-A,pdw_1036,matched,WN,WN,Backbone 7,Backbone 7
+VEGF-A,pdw_1037,matched,WN,WN,Backbone 7,Backbone 7
+VEGF-A,pdw_1038,matched,WN,WN,Backbone 7,Backbone 7
+VEGF-A,pdw_1039,matched,WN,WN,Backbone 8,Backbone 8
+VEGF-A,pdw_1040,matched,WN,WN,Backbone 8,Backbone 8
+VEGF-A,pdw_1041,matched,WN,WN,Backbone 8,Backbone 8
+VEGF-A,pdw_1042,matched,WN,WN,Backbone 8,Backbone 8
+VEGF-A,pdw_1043,matched,WN,WN,Backbone 8,Backbone 8
+VEGF-A,pdw_1044,matched,WN,WN,Backbone 8,Backbone 8
+VEGF-A,pdw_1045,matched,WN,WN,Backbone 9,Backbone 9
+VEGF-A,pdw_1046,matched,WN,WN,Backbone 9,Backbone 9
+VEGF-A,pdw_1047,matched,WN,WN,Backbone 9,Backbone 9
+VEGF-A,pdw_1048,matched,WN,WN,Backbone 9,Backbone 9
+VEGF-A,pdw_1049,matched,WN,WN,Backbone 9,Backbone 9
+VEGF-A,pdw_1050,matched,WN,WN,Backbone 9,Backbone 9
+VEGF-A,pdw_1051,matched,WN,WN,Backbone 10,Backbone 10
+VEGF-A,pdw_1052,matched,WN,WN,Backbone 10,Backbone 10
+VEGF-A,pdw_1053,matched,WN,WN,Backbone 10,Backbone 10
+VEGF-A,pdw_1054,matched,WN,WN,Backbone 10,Backbone 10
+VEGF-A,pdw_1055,matched,WN,WN,Backbone 10,Backbone 10
+VEGF-A,pdw_1056,matched,WN,WN,Backbone 10,Backbone 10
+VEGF-A,pdw_1057,matched,WN,WN,Backbone 11,Backbone 11
+VEGF-A,pdw_1058,matched,WN,WN,Backbone 11,Backbone 11
+VEGF-A,pdw_1059,matched,WN,WN,Backbone 11,Backbone 11
+VEGF-A,pdw_1060,matched,WN,WN,Backbone 11,Backbone 11
+VEGF-A,pdw_1061,matched,WN,WN,Backbone 11,Backbone 11
+VEGF-A,pdw_1062,matched,WN,WN,Backbone 11,Backbone 11
+VEGF-A,pdw_1063,matched,WN,WN,Backbone 12,Backbone 12
+VEGF-A,pdw_1064,matched,WN,WN,Backbone 12,Backbone 12
+VEGF-A,pdw_1065,matched,WN,WN,Backbone 12,Backbone 12
+VEGF-A,pdw_1066,matched,WN,WN,Backbone 12,Backbone 12
+VEGF-A,pdw_1067,matched,WN,WN,Backbone 12,Backbone 12
+VEGF-A,pdw_1068,matched,WN,WN,Backbone 12,Backbone 12
+VEGF-A,pdw_1069,matched,WN,WN,Backbone 13,Backbone 13
+VEGF-A,pdw_1070,matched,WN,WN,Backbone 13,Backbone 13
+VEGF-A,pdw_1071,matched,WN,WN,Backbone 13,Backbone 13
+VEGF-A,pdw_1072,matched,WN,WN,Backbone 13,Backbone 13
+VEGF-A,pdw_1073,matched,WN,WN,Backbone 13,Backbone 13
+VEGF-A,pdw_1074,matched,WN,WN,Backbone 13,Backbone 13
+VEGF-A,pdw_1075,matched,WN,WN,Backbone 14,Backbone 14
+VEGF-A,pdw_1076,matched,WN,WN,Backbone 14,Backbone 14
+VEGF-A,pdw_1077,matched,WN,WN,Backbone 14,Backbone 14
+VEGF-A,pdw_1078,matched,WN,WN,Backbone 14,Backbone 14
+VEGF-A,pdw_1079,matched,WN,WN,Backbone 14,Backbone 14
+VEGF-A,pdw_1080,right_only,NA,WN,NA,Backbone 14

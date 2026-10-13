@@ -1,0 +1,8 @@
+{
+  "frozen_at_utc": "2026-10-09T04:24:30.058137+00:00",
+  "elapsed_minutes": 10.794249141216278,
+  "purpose": "static partial-roster diagnostics; no scientific detection or function calculation",
+  "sha256": {
+    "analysis/diagnostic_rosters.py": "c7072ab34fded7a343f12a10334d20d24ba540ed101ef81b4d0094a2d56b6149"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "frozen_at_utc": "2026-10-09T04:21:50.436206+00:00",
+  "elapsed_minutes": 8.133883341153462,
+  "phase": "before_first_scientific_aggregation",
+  "sha256": {
+    "analysis/acquire.py": "b777a53590f5af503ef9d8b96e6714af1bba94ffaa7dd0295945044ff519e017",
+    "analysis/common.py": "e5b7ed3e6c9932e5cb48c05370216668873ec89c3f79891ab6d88a73b6f5826f",
+    "analysis/config.json": "2114c07c8b3f32b65b40421db97b42239f21a4e2b27a5e5e0772733414f348a2",
+    "analysis/functional.py": "f22246bac241f41ac5234de54cc41d056997dabe3c46e6ab132c30d8e29fbeb0",
+    "analysis/path_a.py": "dbfc94554fca4b49dbf3ab293c9becd120f9ca4dd5ed6224022b15cc1e14c862",
+    "analysis/path_b.py": "abedd719a787a4043da997e5622e3027a0e436daf8806f350a894490f71312b7",
+    "analysis/plots.py": "1ac858420fc96374a1629f54376564a3f55b321fe29bd18104abe6ac48c40593",
+    "analysis/resampling.py": "5f4eb7ef0f7125a80ee4f27a8356cb880650f018a846c391d55a5be53ae3fa9d",
+    "analysis/run.py": "62e5fab23ff4217a5e586160db682ce142a017451e5b8bd6f5d1b670ca1d1fbb",
+    "analysis/schedule.py": "7fb1211e029663aacc0f585e0fc76b56da97e0fca7e888abfdbb40f64fed62f4",
+    "requirements.lock": "15963621b8e89f75ac9b7c78297f8c466de6ab3f002c0ede3a2efe6d28644f8b",
+    "tests/test_acceptance.py": "cad67d578b16362745f53c5218e261adeba4ec38b93872575ead7182713e13c0"
+  },
+  "software_versions": {
+    "python": "3.13.5",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2",
+    "Pillow": "12.3.0"
+  },
+  "template_sha256": "a679df30c6a257f1b4581915677f9ae3af45c56defd4bc1afabe818b42c4ff58",
+  "protocol_sha256": "ffc46de478a00e8eab77b0737d5e5337bc87a9b4fadff9ddb9efcb68f179f1c7",
+  "feasibility_sha256": "cafffb944e5333bfd72668b63213db7b259bd2a30e072b8666dfbd8761890aca"
+}

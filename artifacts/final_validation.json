@@ -1,0 +1,35 @@
+{
+  "checks": {
+    "locked_documents_unchanged": true,
+    "scientific_code_freeze_unchanged": true,
+    "frozen_report_framework_preserved": true,
+    "no_report_placeholders": true,
+    "six_verified_inputs": true,
+    "mandatory_rows": true,
+    "no_fabricated_scientific_counts": true,
+    "correct_M_state": true,
+    "no_disallowed_downstream_outputs": true,
+    "figure1_present": true,
+    "english_posts_constraints": true,
+    "chinese_post_constraints": true,
+    "local_links_resolve": true,
+    "no_large_or_raw_files": true,
+    "prohibited_text_absent": true,
+    "within_wall_clock_limit": true
+  },
+  "all_passed": true,
+  "post_lengths": {
+    "en": [
+      213,
+      198,
+      205
+    ],
+    "cn_total_unicode": 140,
+    "cn_han": 52
+  },
+  "files_checked": 50,
+  "max_file_bytes": 306066,
+  "elapsed_minutes": 16.849209622542062,
+  "missing_links": [],
+  "prohibited_text_violations": []
+}

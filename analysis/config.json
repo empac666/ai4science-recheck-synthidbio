@@ -1,0 +1,14 @@
+{
+  "lock_commit": "8be7d0518127bd62b7f967ca75afb425763ab59a",
+  "upstream_commit": "b2d65a39e0bd3b0bca9e82696bf6f1c306d8d34e",
+  "targets": ["VEGF-A", "PD-L1", "SC2RBD"],
+  "target_aliases": {"vegfa":"VEGF-A", "vegf-a":"VEGF-A", "pd-l1":"PD-L1", "sc2rbd":"SC2RBD"},
+  "settings": {"non_watermark_0.1":"C", "watermark_0.5":"WN", "watermark_0.1":"WD", "Parent Sequence":"parent", "Negative Control non_watermark_0.1":"negative_C", "Negative Control watermark_0.5":"negative_WN", "Negative Control watermark_0.1":"negative_WD"},
+  "score_columns": {"WN":"Non-distortionary g-value", "WD":"Distortionary g-value"},
+  "thresholds": {"WN":"0.545", "WD":"0.722"},
+  "expected_counts": {"C":222, "WN":267, "WD":267},
+  "expected_backbones_per_target":15,
+  "functional_thresholds":["1e-7", "1e-6"],
+  "bootstrap": {"seed":2026100901, "bit_generator":"PCG64", "iterations":10000, "shape":[10000,3,15], "dtype":"int64", "endpoint":false, "quantile_method":"linear", "standard_deviation_ddof":1},
+  "deadlines_minutes": {"acceptance":40,"core":60,"bootstrap":75,"numeric":80,"figure2":90,"hard":120}
+}

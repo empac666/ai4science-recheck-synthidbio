@@ -1,0 +1,61 @@
+{
+  "observed_at_utc": "2026-10-09T04:13:09.443773+00:00",
+  "repository": "https://github.com/empac666/ai4science-recheck-synthidbio",
+  "lock_commit": "8be7d0518127bd62b7f967ca75afb425763ab59a",
+  "endpoints": {
+    "/activity": [
+      {
+        "id": 45918352073,
+        "node_id": "PSH_kwLOVB1dWM8AAAAKsPJyyQ",
+        "ref": "refs/heads/main",
+        "timestamp": "2026-10-09T03:04:51Z",
+        "activity_type": "branch_creation",
+        "before": "0000000000000000000000000000000000000000",
+        "after": "8be7d0518127bd62b7f967ca75afb425763ab59a"
+      }
+    ],
+    "/commits?per_page=10": [
+      {
+        "sha": "8be7d0518127bd62b7f967ca75afb425763ab59a",
+        "parents": []
+      }
+    ],
+    "/git/ref/heads/main": {
+      "ref": "refs/heads/main",
+      "object": {
+        "sha": "8be7d0518127bd62b7f967ca75afb425763ab59a",
+        "type": "commit",
+        "url": "https://api.github.com/repos/empac666/ai4science-recheck-synthidbio/git/commits/8be7d0518127bd62b7f967ca75afb425763ab59a"
+      }
+    }
+  },
+  "public_file_verification": {
+    "PREREG.md": {
+      "url": "https://raw.githubusercontent.com/empac666/ai4science-recheck-synthidbio/8be7d0518127bd62b7f967ca75afb425763ab59a/PREREG.md",
+      "sha256": "ffc46de478a00e8eab77b0737d5e5337bc87a9b4fadff9ddb9efcb68f179f1c7",
+      "matches_local": true
+    },
+    "feasibility.md": {
+      "url": "https://raw.githubusercontent.com/empac666/ai4science-recheck-synthidbio/8be7d0518127bd62b7f967ca75afb425763ab59a/feasibility.md",
+      "sha256": "cafffb944e5333bfd72668b63213db7b259bd2a30e072b8666dfbd8761890aca",
+      "matches_local": true
+    },
+    "SHA256SUMS": {
+      "url": "https://raw.githubusercontent.com/empac666/ai4science-recheck-synthidbio/8be7d0518127bd62b7f967ca75afb425763ab59a/SHA256SUMS",
+      "sha256": "2255437ff6ebf92e6a310e38c740f270290587d75b928c01c60cdd696e15ff6e",
+      "matches_local": true
+    }
+  },
+  "repository_metadata": {
+    "html_url": "https://github.com/empac666/ai4science-recheck-synthidbio",
+    "visibility": "public",
+    "private": false,
+    "created_at": "2026-10-09T03:04:43Z",
+    "pushed_at": "2026-10-09T03:04:51Z",
+    "default_branch": "main"
+  },
+  "publication_timestamp_utc": "2026-10-09T03:04:51Z",
+  "publication_evidence_url": "https://api.github.com/repos/empac666/ai4science-recheck-synthidbio/activity",
+  "publication_activity_id": 45918352073,
+  "evidence_scope": "Initial branch creation from zero reference to the root lock commit; repository currently public; user confirms prior public publication. Git dates are not used."
+}
